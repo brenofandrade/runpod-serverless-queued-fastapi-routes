@@ -24,4 +24,4 @@ RUN ollama pull llama3.2:latest \
 EXPOSE 8080 11434
 
 # Comando para iniciar o servidor do Ollama em background e depois rodar seu script
-CMD ["sh", "-c", "ollama serve & sleep 5 && python app/main.py"]
+CMD ["sh", "-c", "ollama serve & sleep 5 && python app.py"]

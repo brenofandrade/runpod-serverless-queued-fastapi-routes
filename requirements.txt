@@ -8,3 +8,4 @@ langchain-text-splitters==0.3.8
 ollama==0.5.1
 runpod
 flask
+faiss-cpu

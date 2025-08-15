@@ -1,0 +1,10 @@
+pinecone-client==4.1.2
+python-dotenv
+langchain==0.3.26
+langchain-community==0.3.27
+langchain-core==0.3.68
+langchain-ollama==0.3.3
+langchain-text-splitters==0.3.8
+ollama==0.5.1
+runpod
+flask
